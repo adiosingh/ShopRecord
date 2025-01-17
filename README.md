@@ -81,15 +81,8 @@ Screenshots:-
   ![Billing form](https://github.com/user-attachments/assets/da290f93-ef6a-4b69-880d-31639b98e57b)
 
 2. PDF Receipt
-   [bill_19.pdf](https://github.com/user-attachments/files/18452985/bill_19.pdf)
-
-   [bill_17.pdf](https://github.com/user-attachments/files/18453060/bill_17.pdf)
-
-   
-
- 
-   
-
+   ![bill_19 1 _page-0001](https://github.com/user-attachments/assets/3e157a33-73f6-4573-ba44-a6c8e9c8032a)
+   ![bill_17 1 _page-0001](https://github.com/user-attachments/assets/cdd49fc1-24b8-45d2-8f26-0d2a2d1912bb)
 
 Future Enhancements
 Add user authentication for secure access.
