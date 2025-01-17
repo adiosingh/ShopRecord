@@ -1,4 +1,4 @@
-Confectionary Shop Billing System
+## Confectionary Shop Billing System
 
 This project is a web-based billing system designed for a confectionary shop. It allows users to create bills, generate PDF receipts, and maintain a database of customers, products, and transactions. The system is built using Flask for the backend, MySQL for the database, and HTML, CSS, and JavaScript for the frontend.
 
@@ -75,6 +75,21 @@ Response:
   "pdf_url": "/download_bill/bill_1.pdf"
 }
 Download Bill: GET /download_bill/<filename>h
+
+Screenshots:-
+1. Billing Form
+  ![Billing form](https://github.com/user-attachments/assets/da290f93-ef6a-4b69-880d-31639b98e57b)
+
+2. PDF Receipt
+   [bill_19.pdf](https://github.com/user-attachments/files/18452985/bill_19.pdf)
+
+   [bill_17.pdf](https://github.com/user-attachments/files/18453060/bill_17.pdf)
+
+   
+
+ 
+   
+
 
 Future Enhancements
 Add user authentication for secure access.
